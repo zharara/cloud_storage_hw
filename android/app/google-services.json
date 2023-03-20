@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "755452099310",
+    "firebase_url": "https://mobilecloudlab-279e9-default-rtdb.firebaseio.com",
+    "project_id": "mobilecloudlab-279e9",
+    "storage_bucket": "mobilecloudlab-279e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755452099310:android:da0c4123d148be5dded1ff",
+        "android_client_info": {
+          "package_name": "com.mcl.hw1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755452099310-19h5g654til0s0lkhse0sfhc773294or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4FHXU2WgvvR5ykDXHExLKYKt_GIlQWNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755452099310-19h5g654til0s0lkhse0sfhc773294or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755452099310:android:c6ce155ffb29072fded1ff",
+        "android_client_info": {
+          "package_name": "com.zharara.firebase_cloud_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755452099310-19h5g654til0s0lkhse0sfhc773294or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4FHXU2WgvvR5ykDXHExLKYKt_GIlQWNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755452099310-19h5g654til0s0lkhse0sfhc773294or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
